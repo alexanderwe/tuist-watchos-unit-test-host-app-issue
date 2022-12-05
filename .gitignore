@@ -1,0 +1,11 @@
+.DS_Store
+
+Derived/
+*.xcodeproj
+*.xcworkspace
+
+### Tuist ###
+Tuist/Dependencies/graph.json
+Tuist/Dependencies/Carthage
+Tuist/Dependencies/SwiftPackageManager
+.idea
